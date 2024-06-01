@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+
+.list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
